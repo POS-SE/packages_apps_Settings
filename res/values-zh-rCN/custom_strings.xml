@@ -246,6 +246,7 @@
     <!-- Volume button music control -->
     <string name="volume_button_music_control_title">媒体播放控制</string>
     <string name="volume_button_music_control_summary">屏幕关闭时，长按音量键将跳过音乐曲目</string>
+<<<<<<< HEAD
     <!-- Per-app volume control -->
     <string name="app_volume">应用音量</string>
     <string name="app_volume_title">独立控制每个应用的音量</string>
@@ -276,4 +277,7 @@
     <!-- FastCharge feature -->
     <string name="fast_charging_title">快速充电</string>
     <string name="fast_charging_summary">禁用以减少设备在充电时产生的热量或延长电池的使用寿命</string>
+    <!-- QS footer data usage -->
+    <string name="qs_show_data_usage_title">数据使用情况</string>
+    <string name="qs_show_data_usage_summary">在 QS 页脚中显示移动网络/WiFi 数据使用情况</string>
 </resources>
