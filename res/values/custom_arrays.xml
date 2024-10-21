@@ -21,7 +21,6 @@
         <item>3</item>
     </string-array>
 
-<<<<<<< HEAD
     <!-- Per-app notification settings: Timeout period in which the app notifications are muted. These are shown in a list dialog. -->
     <string-array name="app_notification_sound_timeout_entries" translatable="false">
         <item>@string/app_notification_sound_timeout_value_none</item>
