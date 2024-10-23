@@ -5120,4 +5120,9 @@
     <string name="content_protection_preference_subpage_info" msgid="6890886357653365489"></string>
     <string name="accessibility_setup_password_complete" msgid="6358749253318369077">"A senha foi configurada"</string>
     <string name="show_stylus_pointer_icon" msgid="1010583689203665786">"Mostrar ponteiro ao passar o cursor"</string>
+    <!-- PixelOS maintainer -->
+    <string name="maintainer">Mantenedor</string>
+    <!-- Game Space -->
+    <string name="game_space_title">Espaço Gamer</string>
+    <string name="game_space_summary">Melhore sua experiência gamer</string>
 </resources>

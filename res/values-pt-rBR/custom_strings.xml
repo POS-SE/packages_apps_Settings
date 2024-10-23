@@ -276,4 +276,9 @@
     <!-- FastCharge feature -->
     <string name="fast_charging_title">Carregamento rápido</string>
     <string name="fast_charging_summary">Desative para reduzir o calor produzido pelo dispositivo durante o carregamento ou para estender a vida útil da bateria</string>
+    <!-- Hardware info -->
+    <string name="platform_revision">Plataforma</string>
+    <string name="total_ram">RAM total</string>
+     <!-- Summary for list to control apps that ignore battery saving restrictions -->
+     <string name="high_power_apps_summary">Disponibilidade de otimização da bateria</string>
 </resources>
