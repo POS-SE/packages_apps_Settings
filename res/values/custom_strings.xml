@@ -313,4 +313,8 @@
     <!-- Min refresh rate -->
     <string name="min_refresh_rate_title">Minimum refresh rate</string>
 
+    <!-- General -->
+    <string name="category_name_gestures">Gestures</string>
+    <string name="category_name_refresh_rate_controls">Refresh Rate</string>
+
 </resources>
